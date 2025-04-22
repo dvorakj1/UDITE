@@ -26,9 +26,9 @@
     <osoba osCislo='R1246'>
         <jmeno>Hana</jmeno>
         <prijmeni>Holíková</prijmeni>
-        <stav>nestuduje</stav>
-        <obor>MATAP</obor>
-        <rocnik>1</rocnik>
+        <stav>studuje</stav>
+        <obor>KMA</obor>
+        <rocnik>3</rocnik>
         <pohlavi>žena</pohlavi>
         <predmety>
             <predmet>
